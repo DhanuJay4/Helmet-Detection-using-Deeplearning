@@ -1,0 +1,6 @@
+train: E:\yolo-v8\Helemet_detection\dataset\train\images
+val: E:\yolo-v8\Helemet_detection\dataset\val\images
+test: E:\yolo-v8\Helemet_detection\dataset\test\images
+
+nc: 2  # number of classes
+names: ['non-helmet', 'helmet']  # 0 is 'Non-helmet' and 1 is 'helmet'
